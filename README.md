@@ -7,10 +7,8 @@ A responsive portfolio website made with plain HTML, CSS, and JavaScript.
 2. Open the `index.html` file in a browser, or open the folder in VS Code.
 3. Recommended: use the VS Code **Live Server** extension and click **Go Live**.
 
-## Customize before publishing
 Search in `index.html` for:
-- `your.email@example.com` — replace with your actual email.
-- `https://github.com/` — replace with your GitHub profile URL.
+- `balajig074@gmail.com` — replace with your actual email.
 - `https://www.linkedin.com/` — replace with your LinkedIn profile URL.
 - Project descriptions and repository links — update to match your real work. The Weather Dashboard, To-Do List, Calculator, and Python Quiz are portfolio ideas/templates; implement them before presenting them as completed projects.
 - Education spelling, percentages, and dates — verify these details.
